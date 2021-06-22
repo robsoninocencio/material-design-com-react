@@ -1,3 +1,19 @@
+# Projeto -> Material Design com React
+
+Nesse direto ao ponto, mostraremos como implementar os conceitos do Material Design utilizando o React.js. Faremos isso através da MUI, uma lib que traz todos os conceitos em formas de componentes React.
+
+Esse código foi utilizado para a criação do curso [Material Design com React](https://www.schoolofnet.com/canal-direto-ao-ponto/material-design-com-react/) da School of Net.
+
+A School of Net é uma escola online que ensina as mais diversas tecnologias no mundo da programação, desenvolvimento web, games, design e infraestrutura.
+
+School of Net - [https://www.schoolofnet.com](https://www.schoolofnet.com)
+
+# Instrutor: Leonan Luppi
+
+# Sites
+[https://material-ui.com/pt/](https://material-ui.com/pt/)
+[https://material-ui.com/pt/components/buttons/](https://material-ui.com/pt/components/buttons/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +84,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Comandos:
+
+```
+npx create-react-app material-design-com-react
+cd material-design-com-react
+npm install @material-ui/core --save
+npm start
+
+```
